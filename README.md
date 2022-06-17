@@ -17,6 +17,6 @@ Implement the A*-search algorithm for the 8-puzzle that uses the heuristic h1. E
 that you used when you present your solution to the lab assistant. It is important that you choose a good data
 structure for an efficient solution. Your program has to find a solution within **60 seconds**.
 
-### ***Task A***
+### ***Task B***
 
 Extend your program by implementing the heuristic h2
